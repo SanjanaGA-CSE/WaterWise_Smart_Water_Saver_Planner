@@ -1,0 +1,10 @@
+{
+  "name": "Remix WaterWise – Smart Water-Saver Planner",
+  "description": "AI-powered agricultural water management assistant for North Karnataka farmers with crop water calculations, weather intelligence, and drought mitigation.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
